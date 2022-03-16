@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+.Box{
+  height: 30px;
+  width: 60%;
+  margin: 10px;
+}
+.form{
+  height: 30%;
+  width: 20%;
+  border: 3px solid blueviolet;
+  margin: 20px;
+  
+
+}
+.btn{
+  width: 200px;
+  padding: 10px;
+  font: bold;
+  background-color: rgb(144, 86, 197);
+  border-radius: 5px;
+  margin: 30px;
+}
+.table{
+  border: 3px solid blueviolet;
+  margin-left: 20px;
+}
+.th{
+  border-right: 3px solid blueviolet;
+  padding: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  
+}
+.td{
+  border-right:3px solid blueviolet;
+  border-top:3px solid blueviolet ;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding: 20px;
+}
+.tf{
+  border-top:3px solid blueviolet ;
+  padding-left: 60px;
+  padding-right: 60px;
+}
